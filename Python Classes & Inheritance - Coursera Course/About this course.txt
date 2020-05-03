@@ -1,4 +1,5 @@
-This folder contains code for the course's project as well as a link to the document that contains some important notes from the course title "Python Classes & Inheritance" by the University of Michigan on Coursera.
+This folder contains code for the course's project as well as a link to the document that contains some
+important notes from the course title "Python Classes & Inheritance" by the University of Michigan on Coursera.
 
 Noteworthy information from the course:
 https://docs.google.com/document/d/1jmyLqmzJwYVaGYBYs78NTOc1W6gSjHf2wlJUO3KxnRI/edit?usp=sharing
