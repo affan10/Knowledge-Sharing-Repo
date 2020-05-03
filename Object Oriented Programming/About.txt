@@ -1,2 +1,2 @@
-This folder contains documents related to some important aspects of OOP that I've compiled while attempting
-some online courses as well as practicing them.
+This folder contains documents related to some important aspects of Java & OOP in general that I've compiled 
+while attempting some online courses as well as practicing them.
