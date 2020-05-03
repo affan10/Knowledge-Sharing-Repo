@@ -1,0 +1,1 @@
+This folder contains all the concepts I've practiced as part of ML/DL and DS concepts.
