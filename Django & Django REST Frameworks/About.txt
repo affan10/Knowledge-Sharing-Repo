@@ -1,0 +1,2 @@
+This folder contains commands and Django / Django REST related information that I learned while taking some
+introductory online courses as well as attempting tutorials to familiarize myself with these frameworks.
